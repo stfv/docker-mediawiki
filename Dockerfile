@@ -1,4 +1,4 @@
-FROM mediawiki:1.31.1
+FROM mediawiki:lts
 MAINTAINER Chrostof Spies <christof.spies@stfv-koeln.de>
 
 # Enable apache mods.
