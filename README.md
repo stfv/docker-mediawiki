@@ -16,3 +16,7 @@ Abweichend von den o.a. Dockerfiles wurde folgende Änderungen und Ergänzungen 
 ### Apache
 
 * Aktivierung des *rewrite* Moduls.
+
+## Automatische Builds auf Docker Hub
+
+Automatische Builds auf Docker Hub wurden nach [Anleitung](https://docs.docker.com/docker-hub/builds/) aktiviert.
