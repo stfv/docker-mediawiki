@@ -5,7 +5,7 @@ Dokumentation der Anpassungen am Docker Image von Mediawiki für den Betrieb.
 ## Verwendete Dockerfiles
 
 Das lokale Dockerfile basiert auf folgenden Dockerfile von Drittanbietern:
-* [mediawiki:tls](https://github.com/wikimedia/mediawiki-docker/blob/master/1.31/Dockerfile)
+* [mediawiki:lts](https://github.com/wikimedia/mediawiki-docker/blob/master/1.31/Dockerfile)
 * [php:7.2-apache](https://github.com/docker-library/php/blob/master/7.2/stretch/apache/Dockerfile)
 * [debian:stretch-slim](https://github.com/debuerreotype/debuerreotype/blob/master/Dockerfile)
 
